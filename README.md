@@ -8,4 +8,4 @@ Nextia Mono is my take on Iosevka font.
 - Patch Nerd Fonts
 
 # Download TTF
-![Check the Release Page](https://github.com/nextiaindex/nextia-mono/releases)
+[Check the Release Page](https://github.com/nextiaindex/nextia-mono/releases)
